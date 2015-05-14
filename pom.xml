@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -54,6 +55,7 @@
 			<version>5.0.0.Final</version>
 		</dependency>
 	</dependencies>
+
 	<build>
 		<finalName>teste-selecao</finalName>
 		<plugins>
@@ -68,4 +70,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
